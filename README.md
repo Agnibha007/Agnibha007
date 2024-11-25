@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/agnibha007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agnibha007" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/agnibha mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="agnibha mukherjee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code gangsters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code gangsters" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codegangsters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code gangsters" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user5226ri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5226ri" height="30" width="40" /></a>
 </p>
 
