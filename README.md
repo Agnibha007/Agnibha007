@@ -23,12 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/agnibha007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/agnibha007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://shortify-gamma.vercel.app/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://shortify-gamma.vercel.app/linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25250199/agnibha-mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25250199/agnibha-mukherjee" height="30" width="40" /></a>
+<a href="https://codepen.io/agnibha007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/agnibha007" height="30" width="40" /></a>
+<a href="https://shortify-gamma.vercel.app/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://shortify-gamma.vercel.app/linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25250199/agnibha-mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25250199/agnibha-mukherjee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@codegangsters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codegangsters" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/agnibha007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/agnibha007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://shortify-gamma.vercel.app/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://shortify-gamma.vercel.app/leetcode" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/agnibha007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/agnibha007" height="30" width="40" /></a>
+<a href="https://shortify-gamma.vercel.app/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://shortify-gamma.vercel.app/leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
