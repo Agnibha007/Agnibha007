@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Everythinggg**
 
-- 👨‍💻 All of my projects are available at [https://www.agnibhamukherjee.netlify.app](https://agnibhamukherjee.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.agnibha.me](https://agnibha.me)
 
 - 💬 Ask me about **Python, Java and JS**
 
