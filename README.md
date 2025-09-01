@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnibha007&label=Profile%20views&color=0e75b6&style=flat" alt="agnibha007" /> </p>
 
-- 🔭 I’m currently working on [Yuzone Music](https://www.music.yuzone.me)
+- 🔭 I’m currently working on [Yuzone Music](https://music.yuzone.me)
 
 - 🌱 I’m currently learning **Angular, React Native and APIs**
 
