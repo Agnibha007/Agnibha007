@@ -41,7 +41,20 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,nodejs,express,mongodb,firebase,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,nodejs,express,mongodb,firebase,git,github,linux,vscode,kubernetes,aws,azure,blender,arduino" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Ricing-111111?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Electronic_Engineering-111111?style=for-the-badge&logo=electron&logoColor=white)
+![](https://img.shields.io/badge/Random_Forest-111111?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
