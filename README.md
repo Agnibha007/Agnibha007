@@ -98,11 +98,19 @@ Modern URL shortener built with:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnibha007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Agnibha007&show_icons=true&theme=tokyonight&hide_border=true" />
+</td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnibha007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnibha007&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnibha007&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Agnibha007&theme=tokyonight&hide_border=true" />
 
 </div>
 
