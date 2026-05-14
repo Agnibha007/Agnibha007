@@ -6,9 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-6c0c4f84-0d91-4f9d-9d7e-f7bde4d7c4a4.gif" width="500">
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Agnibha007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Agnibha007&label=Visitors&color=0e75b6&style=for-the-badge" />
 
 <img src="https://img.shields.io/github/followers/Agnibha007?style=for-the-badge&logo=github" />
 
