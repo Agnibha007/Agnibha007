@@ -55,6 +55,8 @@
 
 ## 🌫 AI Air Quality Prediction & Alert System
 
+🔗 **Live Demo:** https://aqi.agnibha.me
+
 AI-powered AQI prediction platform using:
 - Random Forest
 - XGBoost
@@ -72,7 +74,9 @@ AI-powered AQI prediction platform using:
 
 ---
 
-## 🔗 Bit.ly Clone
+## 🔗 Shortify — Bit.ly Clone
+
+🔗 **Live Demo:** https://shortify-gamma.vercel.app
 
 Modern URL shortener built with:
 - Next.js
@@ -94,11 +98,11 @@ Modern URL shortener built with:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnibha007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnibha007&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnibha007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnibha007&layout=compact&theme=transparent&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnibha007&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Agnibha007&theme=transparent&hide_border=true"/>
 
 </div>
 
