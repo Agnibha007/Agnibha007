@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Agnibha007&label=Visitors&color=0e75b6&style=for-the-badge" />
+<img src="https://count.getloli.com/get/@Agnibha007?theme=rule34" />
 
 <img src="https://img.shields.io/github/followers/Agnibha007?style=for-the-badge&logo=github" />
 
