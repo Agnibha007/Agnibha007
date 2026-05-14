@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Agnibha007&count_bg=%2300F7FF&title_bg=%23111111&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Open+Source+Contributor;AI+%26+Web+Developer;Prompt+Engineer;Competitive+Programmer;Linux+Power+User" />
 
 </div>
 
