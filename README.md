@@ -109,19 +109,13 @@ Modern URL shortener built with:
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Agnibha007&show_icons=true&theme=tokyonight&hide_border=true" />
-</td>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Agnibha007&theme=tokyonight" />
 
-<td>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Agnibha007&layout=compact&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Agnibha007&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnibha007&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Agnibha007&theme=tokyonight&hide_border=true" />
 
 </div>
 
