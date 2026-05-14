@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Profile_Views-NEW-blue?style=for-the-badge" />
+<img src="https://visitcount.itsvg.in/api?id=Agnibha007&icon=5&color=12" />
 
 <img src="https://img.shields.io/github/followers/Agnibha007?style=for-the-badge&logo=github" />
 
