@@ -6,10 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-6c0c4f84-0d91-4f9d-9d7e-f7bde4d7c4a4.gif" width="500">
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Open+Source+Contributor;AI+%26+Web+Developer;Prompt+Engineer;Competitive+Programmer;Linux+Power+User" />
-
 </div>
 
 ---
