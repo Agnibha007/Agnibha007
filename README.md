@@ -2,62 +2,48 @@
 
 # Hi 👋, I'm Agnibha Mukherjee
 
-### Class 11 Student • Open Source Contributor • Competitive Programmer • AI Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=Class+11+Student+from+India;Open+Source+Contributor;Competitive+Programmer;AI+%26+Web+Developer;Linux+Enthusiast;Building+Real-World+Projects" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI+%26+Web+Applications;Open+Source+Contributor;Competitive+Programmer;Linux+%2B+Cloud+Enthusiast;JEE+Aspirant+with+Developer+Mindset" />
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Agnibha007&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://user-images.githubusercontent.com/74038190/212749695-6c0c4f84-0d91-4f9d-9d7e-f7bde4d7c4a4.gif" width="500">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Agnibha007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Agnibha007?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/github/stars/Agnibha007?style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🎓 Class 11 student from India
-- 💻 Passionate about building scalable real-world software
-- 🧠 Preparing for JEE while actively contributing to Open Source
-- 🌫 Building AI-powered environmental systems
-- ⚡ Linux enthusiast and workflow optimizer
+- 💻 Building scalable software & AI systems
+- 🧠 Preparing for JEE alongside development
+- 🌫 Building AI-powered AQI systems
+- ⚡ Linux customization & automation enthusiast
 - 🏏 Cricket academy trainee
-- 🔍 Strong believer in curiosity-driven learning
+- 🚀 Open Source Contributor
+- 🔍 Curiosity-driven learner
+
+<br><br>
 
 ---
 
-# 🛠 Tech Stack
+# ⚒️ Tech Stack
 
-## Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,nodejs,express,mongodb,firebase,git,github,linux,vscode" />
 
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-
----
-
-## Backend & Database
-
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-
----
-
-## Tools & Platforms
-
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=google-cloud)
+</div>
 
 ---
 
@@ -65,43 +51,56 @@
 
 ## 🌫 AI Air Quality Prediction & Alert System
 
-🔗 **Live Demo:** https://aqi.agnibha.me
+<div align="center">
 
-AI-powered AQI prediction platform using:
-- Random Forest
-- XGBoost
-- Historical AQI datasets
-- Weather APIs
-- Geolocation systems
-- AI chatbot integration
+<a href="https://aqi.agnibha.me">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
 
 ### Features
 
-- Real-time AQI monitoring
-- Predictive analytics
-- AI-powered assistance
-- Webcam image capture support
-- Multi-camera integration
+- AI-powered AQI prediction
+- Random Forest & XGBoost integration
+- Geolocation support
+- AI chatbot integration
+- Real-time weather APIs
+- Webcam image capture
+- Multi-camera support
 
 ---
 
 ## 🔗 Shortify — Bit.ly Clone
 
-🔗 **Live Demo:** https://shortify-gamma.vercel.app
+<div align="center">
 
-Modern URL shortener built with:
+<a href="https://shortify-gamma.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-2962FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+### Built With
+
 - Next.js
 - MongoDB
 - Dynamic routing
-- Analytics tracking
+- URL analytics
 
 ---
 
 # 🏆 Achievements
 
-🥇 1st Position — School Coding Competition  
-🥇 1st Position — WhiteHat Jr Competition  
-🥈 2nd Position — Delhi State Level Competition  
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Agnibha007&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+- 🥇 1st Position — School Coding Competition
+- 🥇 1st Position — WhiteHat Jr Competition
+- 🥈 2nd Position — Delhi State Level Competition
 
 ---
 
@@ -117,6 +116,10 @@ Modern URL shortener built with:
 
 <img src="https://streak-stats.demolab.com?user=Agnibha007&theme=tokyonight&hide_border=true" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agnibha007&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
@@ -126,38 +129,40 @@ Modern URL shortener built with:
 <div align="center">
 
 <a href="https://leetcode.com/u/user5226rI/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://leetcard.jacoblin.cool/user5226rI?theme=dark&font=Fira%20Code&ext=contest" />
 </a>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-[![Agnibha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agnibha007&theme=tokyo-night)](https://github.com/Agnibha007)
-
----
-
 # 🎯 Current Focus
 
-- Open Source Contributions
-- AI & Machine Learning
-- Competitive Programming
-- System Design
-- Cloud Computing
-- High-performance Web Applications
+```txt
+> Open Source Contributions
+> AI & Machine Learning
+> Competitive Programming
+> Cloud Computing
+> System Design
+> High-performance Web Applications
+```
 
 ---
 
 # 📫 Contact
 
-📧 **Email:** b5x003agnibha.mukherjee@gmail.com
+<div align="center">
+
+<a href="mailto:b5x003agnibha.mukherjee@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### “Curiosity drives innovation.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
