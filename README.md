@@ -4,7 +4,7 @@
 
 ### Class 11 Student • Open Source Contributor • Competitive Programmer • AI Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+%26+Web+Applications;Open+Source+Contributor;Competitive+Programmer;Linux+%2B+Cloud+Enthusiast;JEE+Aspirant+with+Developer+Mindset" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI+%26+Web+Applications;Open+Source+Contributor;Competitive+Programmer;Linux+%2B+Cloud+Enthusiast;JEE+Aspirant+with+Developer+Mindset" />
 
 <img src="https://komarev.com/ghpvc/?username=Agnibha007&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -17,8 +17,8 @@
 - 🎓 Class 11 student from India
 - 💻 Passionate about building scalable real-world software
 - 🧠 Preparing for JEE while actively contributing to Open Source
-- 🌫 Currently building AI-powered environmental systems
-- ⚡ Linux enthusiast and productivity workflow optimizer
+- 🌫 Building AI-powered environmental systems
+- ⚡ Linux enthusiast and workflow optimizer
 - 🏏 Cricket academy trainee
 - 🔍 Strong believer in curiosity-driven learning
 
@@ -27,22 +27,32 @@
 # 🛠 Tech Stack
 
 ## Languages
+
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 
+---
+
 ## Frontend
+
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 
+---
+
 ## Backend & Database
+
 ![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
 
+---
+
 ## Tools & Platforms
+
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
@@ -66,6 +76,7 @@ AI-powered AQI prediction platform using:
 - AI chatbot integration
 
 ### Features
+
 - Real-time AQI monitoring
 - Predictive analytics
 - AI-powered assistance
@@ -101,16 +112,16 @@ Modern URL shortener built with:
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Agnibha007&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Agnibha007&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnibha007&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Agnibha007&layout=compact&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Agnibha007&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnibha007&theme=tokyonight&hide_border=true" />
 
 </div>
 
