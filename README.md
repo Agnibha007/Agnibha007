@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://count.getloli.com/get/@Agnibha007?theme=moebooru" />
+<img src="https://img.shields.io/badge/Profile_Views-NEW-blue?style=for-the-badge" />
 
 <img src="https://img.shields.io/github/followers/Agnibha007?style=for-the-badge&logo=github" />
 
