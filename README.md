@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Agnibha Mukherjee
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=Class+11+Student+from+India;Open+Source+Contributor;Competitive+Programmer;AI+%26+Web+Developer;Linux+Enthusiast;Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=950&lines=Class+11+Student+from+India;Open+Source+Contributor;Competitive+Programmer;AI+%26+Web+Developer;Linux+Enthusiast;Building+Real-World+Projects;Prompt+Engineer;JEE+Aspirant;Vibe+Coder;Curiosity+Engineer" />
 
 <br>
 
