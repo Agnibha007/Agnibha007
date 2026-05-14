@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAgnibha007&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Agnibha007&count_bg=%2300F7FF&title_bg=%23111111&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"/>
 
 </div>
 
