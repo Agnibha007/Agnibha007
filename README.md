@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Agnibha Mukherjee
+# Hi, I'm Agnibha Mukherjee
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=950&lines=Class+11+Student+from+India;Open+Source+Contributor;Competitive+Programmer;AI+%26+Web+Developer;Linux+Enthusiast;Building+Real-World+Projects;Prompt+Engineer;JEE+Aspirant;Vibe+Coder;Curiosity+Engineer" />
 
@@ -10,24 +10,23 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🎓 Class 11 student from India
-- 💻 Building scalable software & AI systems
-- 🧠 Preparing for JEE alongside development
-- 🌫 Building AI-powered AQI systems
-- ⚡ Linux customization & automation enthusiast
-- 🏏 Cricket academy trainee
-- 🚀 Open Source Contributor
-- 🔍 Curiosity-driven learner
+- Class 11 student from India
+- Building scalable software & AI systems
+- Preparing for JEE alongside development
+- Building AI-powered AQI systems
+- Linux customization & automation enthusiast
+- Open Source Contributor
+- Curiosity-driven learner
 
 <br><br>
 
 ---
 
-# ⚒️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -50,7 +49,7 @@
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 ## 🌫 AI Air Quality Prediction & Alert System
 
@@ -93,7 +92,7 @@
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 <div align="center">
 
@@ -107,7 +106,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -127,7 +126,7 @@
 
 ---
 
-# 💻 Competitive Programming
+# Competitive Programming
 
 <div align="center">
 
@@ -139,7 +138,7 @@
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```txt
 > Open Source Contributions
@@ -152,7 +151,7 @@
 
 ---
 
-# 📫 Contact
+# Contact
 
 <div align="center">
 
