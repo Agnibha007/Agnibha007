@@ -2,7 +2,7 @@
 
 # Hi, I'm Agnibha Mukherjee
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=950&lines=Class+11+Student+from+India;Open+Source+Contributor;Competitive+Programmer;AI+%26+Web+Developer;Linux+Enthusiast;Building+Real-World+Projects;Prompt+Engineer;JEE+Aspirant;Vibe+Coder;Curiosity+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=950&lines=Class+11+Student+from+India;Open+Source+Contributor;Competitive+Programmer;AI+%26+Full-Stack+Developer;Linux+Enthusiast;Building+Strumm;Prompt+Engineer;JEE+Aspirant;Curiosity+Engineer" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-6c0c4f84-0d91-4f9d-9d7e-f7bde4d7c4a4.gif" width="500">
 
@@ -14,13 +14,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- Class 11 student from India
-- Building scalable software & AI systems
-- Preparing for JEE alongside development
-- Building AI-powered AQI systems
-- Linux customization & automation enthusiast
-- Open Source Contributor
-- Curiosity-driven learner
+* 🇮🇳 Class 11 student from India
+* 🎵 Building **Strumm** — an AI-powered music streaming platform
+* 🤖 Passionate about AI, scalable systems, and modern web technologies
+* 📚 Preparing for **JEE** alongside software development
+* 🐧 Linux customization & automation enthusiast
+* 🌍 Open Source Contributor
+* 🚀 Always building, learning, and experimenting
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,nodejs,express,mongodb,firebase,git,github,linux,vscode,kubernetes,aws,azure,blender,arduino" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,react,nextjs,nodejs,express,mongodb,firebase,git,github,linux,docker,kubernetes,aws,azure,vscode,blender,arduino" />
 
 </div>
 
@@ -38,14 +38,23 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Ricing-111111?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Electronic_Engineering-111111?style=for-the-badge&logo=electron&logoColor=white)
-![](https://img.shields.io/badge/Random_Forest-111111?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/DSA-111111?style=for-the-badge\&logo=thealgorithms\&logoColor=white)
+![](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=mysql\&logoColor=white)
+![](https://img.shields.io/badge/System_Design-111111?style=for-the-badge)
+![](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge)
+![](https://img.shields.io/badge/Linux_Ricing-111111?style=for-the-badge\&logo=linux\&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![](https://img.shields.io/badge/Cloud_Computing-111111?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 </div>
+
+---
+
+# 🚀 Currently Building
+
+> ## 🎵 **Strumm — Where Your Music Lives**
+
+A modern AI-powered music streaming platform focused on personalized listening, intelligent recommendations, beautiful UI, and seamless cross-platform playback.
 
 ---
 
@@ -60,45 +69,78 @@
 </a>
 
 <a href="https://github.com/Agnibha007/Strumm">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<img src="https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Powered-7B61FF?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
-## 🌫 AI Air Quality Prediction & Alert System <div align="center"> <a href="https://aqi.agnibha.me"> <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div> ### Features - AI-powered AQI prediction - Random Forest & XGBoost integration - Geolocation support - AI chatbot integration - Real-time weather APIs - Webcam image capture - Multi-camera support --- ## 🔗 Shortify — Bit.ly Clone <div align="center"> <a href="https://shortify-gamma.vercel.app"> <img src="https://img.shields.io/badge/LIVE_DEMO-2962FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div> ### Built With - Next.js - MongoDB - Dynamic routing - URL analytics ---
+### Features
 
-### About
+* 🎧 AI-powered music streaming
+* 🤖 Personalized recommendations
+* 🧬 Sound DNA
+* 📈 Replay analytics
+* ❤️ Library & playlists
+* 🔍 Fast music search
+* 🎵 Lyrics support
+* 📱 Progressive Web App
+* ⚡ Optimized playback engine
+* 🎨 Modern responsive interface
 
-A modern AI-powered music streaming platform focused on personalized listening, smart recommendations, and a beautiful cross-platform experience.
+### Tech
 
-### Highlights
+* Next.js 15
+* React 19
+* Node.js
+* Express
+* MongoDB
+* Tailwind CSS
+* YouTube Data API
+* AI Recommendation Engine
 
--  Stream millions of tracks
--  AI-powered music recommendations
--  Personalized Sound DNA
--  Spotify Wrapped-style Replay
--  Library, playlists & favorites
--  Lightning-fast search
--  Lyrics support
--  Progressive Web App
--  Beautiful modern UI
--  Optimized for performance
+---
 
-### Tech Stack
+## 🌫 AI Air Quality Prediction & Alert System
 
-- Next.js 15
-- React 19
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
-- YouTube Data API
-- AI Recommendation Engine
+<div align="center">
+
+<a href="https://aqi.agnibha.me">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+### Features
+
+* AI-powered AQI prediction
+* Random Forest & XGBoost integration
+* Real-time weather APIs
+* AI chatbot
+* Geolocation support
+* Webcam image capture
+* Multi-camera support
+
+---
+
+## 🔗 Shortify — URL Shortener
+
+<div align="center">
+
+<a href="https://shortify-gamma.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-2962FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+### Features
+
+* Custom short URLs
+* Analytics
+* MongoDB backend
+* Fast redirects
+* Responsive UI
+
+---
 
 # Achievements
 
@@ -108,9 +150,9 @@ A modern AI-powered music streaming platform focused on personalized listening, 
 
 </div>
 
-- 🥇 1st Position — School Coding Competition
-- 🥇 1st Position — WhiteHat Jr Competition
-- 🥈 2nd Position — Delhi State Level Competition
+* 🥇 1st Position — School Coding Competition
+* 🥇 1st Position — WhiteHat Jr Competition
+* 🥈 2nd Position — Delhi State Level Competition
 
 ---
 
@@ -149,17 +191,18 @@ A modern AI-powered music streaming platform focused on personalized listening, 
 # Current Focus
 
 ```txt
-> Open Source Contributions
-> AI & Machine Learning
-> Competitive Programming
-> Cloud Computing
-> System Design
-> High-performance Web Applications
+> 🎵 Scaling Strumm
+> 🤖 AI Recommendation Systems
+> ☁️ Cloud Computing
+> 🏗️ System Design
+> 🐧 Linux & Automation
+> 🧩 Competitive Programming
+> 🌍 Open Source Contributions
 ```
 
 ---
 
-# Contact
+# Let's Connect
 
 <div align="center">
 
@@ -167,11 +210,23 @@ A modern AI-powered music streaming platform focused on personalized listening, 
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://github.com/Agnibha007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://agnibha.me">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
+
+### ⭐ Thanks for stopping by!
+
+*"Building software that solves real problems, one commit at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
