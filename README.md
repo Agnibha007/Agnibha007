@@ -44,7 +44,7 @@ Right now, that journey is centered around **Strumm**.
 
 ### *Where Your Music Lives.*
 
-<img src="YOUR_STRUMM_SCREENSHOT_HERE" width="100%"/>
+<img src="https://github.com/Agnibha007/Portfolio-New/blob/main/public/images/project11.png" width="100%"/>
 
 </div>
 
