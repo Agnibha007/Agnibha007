@@ -2,41 +2,12 @@
 
 <br>
 
-# Building products people actually use.
-
-**Agnibha Mukherjee** · *Product Engineering*
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/-agnibha.me-0a0a0a?style=flat&labelColor=0a0a0a&color=0a0a0a&logo=safari&logoColor=white)](https://agnibha.me)
-[![Strumm](https://img.shields.io/badge/-strumm.me-0a0a0a?style=flat&labelColor=0a0a0a&color=0a0a0a&logo=apple-music&logoColor=white)](https://strumm.me)
-[![LinkedIn](https://img.shields.io/badge/-in/agnibha7-0a0a0a?style=flat&labelColor=0a0a0a&color=0a0a0a&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnibha7)
-[![X](https://img.shields.io/badge/-@a07mukh-0a0a0a?style=flat&labelColor=0a0a0a&color=0a0a0a&logo=x&logoColor=white)](https://x.com/a07mukh)
+<img src="profile-assets/hero.svg" alt="Hero" width="800" height="240" style="max-width:100%;height:auto;">
 
 <br>
 <br>
 
 </div>
-
-```text
-
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │
-  │                                                             │
-  │   $ whoami           →  Agnibha Mukherjee                  │
-  │   $ craft            →  Software people remember            │
-  │   $ building         →  Strumm — music intelligence         │
-  │   $ ethos            →  Simple is hard. Ship anyway.        │
-  │   $ next             →  Android · Desktop · AI Radio        │
-  │                                                             │
-  │   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-
-```
-
-<br>
 
 <div align="center">
 
@@ -47,27 +18,23 @@
 > A music player that understands your taste.  
 > Replay your listening history, visualize your sound DNA, and discover tracks that actually fit your vibe.
 
-Built as a Progressive Web App with offline support, AI-driven recommendations, and a listening experience that respects your attention. Analyzes listening patterns, profiles sound DNA using collaborative filtering, and surfaces recommendations that feel intentional—not algorithmic noise.
+Built as a Progressive Web App with offline support, AI-driven recommendations, and a listening experience that respects your attention.
 
-```text
-
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║   Live Demo  →  strumm.me                                 ║
-  ║   Source     →  github.com/Agnibha007/strumm              ║
-  ║   Stack      →  React · Node.js · MongoDB · PWA           ║
-  ║   Arch       →  Microservices · API Gateway · Collab Fit  ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-
-```
-
-<details>
-<summary>Architecture</summary>
+<img src="profile-assets/terminal.svg" alt="Terminal" width="700" height="260" style="max-width:100%;height:auto;">
 
 <br>
 
-Microservices architecture with a React frontend, Node.js API gateway, and MongoDB for user data and playlist persistence. The recommendation engine uses collaborative filtering on listening history history to profile sound DNA and surface personalized tracks.
+<details>
+<summary>Architecture & Stack</summary>
+
+<br>
+
+| | |
+|---|---|
+| **Live Demo** | [strumm.me](https://strumm.me) |
+| **Source** | [github.com/Agnibha007/strumm](https://github.com/Agnibha007/strumm) |
+| **Stack** | React · Node.js · MongoDB · PWA · CSS3 |
+| **Architecture** | Microservices with React frontend, Node.js API gateway, MongoDB for persistence. Recommendation engine uses collaborative filtering on listening history. |
 
 </details>
 
@@ -80,14 +47,14 @@ Microservices architecture with a React frontend, Node.js API gateway, and Mongo
 
 </div>
 
-| Project | Stack | The Problem → Solution |
-|---------|-------|----------------------|
-| **Talkfusion** | Socket.io, Node.js | Chat apps are bloated → Real-time messaging, room-based, zero bloat |
-| **Shortify** | Next.js, MongoDB | URL shorteners harvest data → Click analytics, custom slugs, no tracking |
-| **AI AQI Assistant** | Python, Flask, ML | Air quality data is inaccessible → ML-powered prediction, real-time insights |
-| **MoneyMate** | React, Chart.js | Budgeting apps are noisy → Visual expense tracking, local-first, clean |
-| **Typester** | React, JavaScript | Typing tests feel dated → Real-time WPM, performance stats, minimal UI |
-| **Uncrackable** | JavaScript, CSS | Password managers are overengineered → Simple, local storage, does one thing well |
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| **Talkfusion** | Socket.io, Node.js | Real-time messaging with room-based chat |
+| **Shortify** | Next.js, MongoDB | URL shortener with click analytics |
+| **AI AQI Assistant** | Python, Flask, ML | Air quality prediction with ML insights |
+| **MoneyMate** | React, Chart.js | Interactive expense tracking with analytics |
+| **Typester** | React, JavaScript | Real-time WPM typing speed benchmark |
+| **Uncrackable** | JavaScript, HTML/CSS | Password management with local storage |
 
 <br>
 
@@ -103,9 +70,9 @@ Microservices architecture with a React frontend, Node.js API gateway, and Mongo
 
 **Every pixel has a purpose.** Whether it's the spacing between two buttons or the timing of a hover transition, nothing in the UI should feel accidental. Detail is not detail. It is the design.
 
-**Choose simple over easy.** Simple requires discipline. Fewer dependencies, cleaner abstractions, systems that don't break when you look at them wrong. Harder to build. Easier to maintain.
+**Choose simple over easy.** Simple requires discipline. Fewer dependencies, cleaner abstractions, systems that don't break when you look at them wrong.
 
-**The best code is deleted code.** Every feature, every abstraction, every dependency comes with a cost. I ship less code than most people — and what remains works harder.
+**The best code is deleted code.** Every feature, every dependency comes with a cost. I ship less code than most — and what remains works harder.
 
 <br>
 
@@ -137,11 +104,11 @@ Microservices architecture with a React frontend, Node.js API gateway, and Mongo
 | | |
 |---|---|
 | <kbd>OS</kbd> | macOS / Linux |
-| <kbd>Editor</kbd> | VS Code — Mona Sans, minimal UI, zero clutter |
-| <kbd>Terminal</kbd> | Warp / iTerm2 — fish shell, autosuggestions |
+| <kbd>Editor</kbd> | VS Code — Mona Sans, minimal UI |
+| <kbd>Terminal</kbd> | Warp / iTerm2 — fish shell |
 | <kbd>Browser</kbd> | Arc — tabs that don't take over your life |
 | <kbd>Font</kbd> | Mona Sans — built for code, beautiful at every weight |
-| <kbd>Shell</kbd> | fish — sane defaults, syntax highlighting |
+| <kbd>Shell</kbd> | fish — autosuggestions, sane defaults |
 | <kbd>PM</kbd> | npm / pnpm |
 
 <br>
@@ -204,9 +171,9 @@ Microservices architecture with a React frontend, Node.js API gateway, and Mongo
 
 </div>
 
-> **116 public repositories** — forks, experiments, tools, and products.  
-> Every repo tells a story. Some are well-told. Some are lessons learned.
+<img src="profile-assets/stats.svg" alt="GitHub Stats" width="700" height="100" style="max-width:100%;height:auto;">
 
+<br>
 <br>
 
 <div align="center">
