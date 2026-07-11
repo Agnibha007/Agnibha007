@@ -70,6 +70,8 @@
 
 </div>
 
+## 🌫 AI Air Quality Prediction & Alert System <div align="center"> <a href="https://aqi.agnibha.me"> <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div> ### Features - AI-powered AQI prediction - Random Forest & XGBoost integration - Geolocation support - AI chatbot integration - Real-time weather APIs - Webcam image capture - Multi-camera support --- ## 🔗 Shortify — Bit.ly Clone <div align="center"> <a href="https://shortify-gamma.vercel.app"> <img src="https://img.shields.io/badge/LIVE_DEMO-2962FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div> ### Built With - Next.js - MongoDB - Dynamic routing - URL analytics ---
+
 ### About
 
 A modern AI-powered music streaming platform focused on personalized listening, smart recommendations, and a beautiful cross-platform experience.
