@@ -51,46 +51,52 @@
 
 # Featured Projects
 
-## 🌫 AI Air Quality Prediction & Alert System
+## 🎵 Strumm — Where Your Music Lives
 
 <div align="center">
 
-<a href="https://aqi.agnibha.me">
+<a href="https://strumm.pixelneststudios.tech">
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-</div>
-
-### Features
-
-- AI-powered AQI prediction
-- Random Forest & XGBoost integration
-- Geolocation support
-- AI chatbot integration
-- Real-time weather APIs
-- Webcam image capture
-- Multi-camera support
-
----
-
-## 🔗 Shortify — Bit.ly Clone
-
-<div align="center">
-
-<a href="https://shortify-gamma.vercel.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-2962FF?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/Agnibha007/Strumm">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<img src="https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Powered-7B61FF?style=for-the-badge&logo=openai&logoColor=white" />
+
 </div>
 
-### Built With
+### About
 
-- Next.js
+A modern AI-powered music streaming platform focused on personalized listening, smart recommendations, and a beautiful cross-platform experience.
+
+### Highlights
+
+-  Stream millions of tracks
+-  AI-powered music recommendations
+-  Personalized Sound DNA
+-  Spotify Wrapped-style Replay
+-  Library, playlists & favorites
+-  Lightning-fast search
+-  Lyrics support
+-  Progressive Web App
+-  Beautiful modern UI
+-  Optimized for performance
+
+### Tech Stack
+
+- Next.js 15
+- React 19
+- Node.js
+- Express
 - MongoDB
-- Dynamic routing
-- URL analytics
-
----
+- Tailwind CSS
+- YouTube Data API
+- AI Recommendation Engine
 
 # Achievements
 
