@@ -20,7 +20,7 @@
       <stop offset="50%" stop-color="rgba(255,255,255,0.02)" />
       <stop offset="100%" stop-color="rgba(255,255,255,0)" />
     </radialGradient>
-    <clipPath id="gradText"><text x="400" y="80" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Building products</text></clipPath>
+
   </defs>
 
   <!-- Ambient glow orbs -->
@@ -236,7 +236,7 @@
   <rect x="20" y="20" width="660" height="240" rx="12" fill="#0d0d0d" stroke="rgba(255,255,255,0.04)" stroke-width="1" />
 
   <!-- Frontend -->
-  <text x="45" y="55" font-family="monospace" font-size="11" fill="#555555" text-transform="uppercase">FRONTEND</text>
+  <text x="45" y="55" font-family="monospace" font-size="11" fill="#555555">FRONTEND</text>
   <rect x="45" y="68" height="6" rx="3" fill="rgba(255,255,255,0.04)" width="610" />
   <rect x="45" y="68" height="6" rx="3" fill="url(#fb)" width="610">
     <animate attributeName="width" values="0;610;610" dur="1.5s" fill="freeze" />
@@ -325,7 +325,6 @@
 <svg width="100%" height="280" viewBox="0 0 700 280" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width:700px;display:block;margin:0 auto;">
   <defs>
     <style>
-      @keyframes drawLine { from { stroke-dashoffset: 400; } to { stroke-dashoffset: 0; } }
       @keyframes pulseDot { 0%,100% { opacity:0.6; } 50% { opacity:1; } }
     </style>
   </defs>
