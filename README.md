@@ -10,7 +10,7 @@ Full Stack Developer • Linux Enthusiast • Open Source Contributor • Class 
 
 <br>
 
-<a href="https://agnibha.me">
+<a href="https://agnibha.xyz">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
