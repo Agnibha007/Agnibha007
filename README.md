@@ -66,9 +66,15 @@ Linux · Docker · Git · Cloudflare · Vercel
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agnibha007&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Agnibha007&show_icons=true&theme=github_dark&hide_border=true&hide_title=true"
+  height="165"
+/>
 
-<img src="https://streak-stats.demolab.com?user=Agnibha007&theme=github-dark&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=Agnibha007&theme=github-dark&hide_border=true"
+  height="165"
+/>
 
 </div>
 
