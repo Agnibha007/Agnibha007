@@ -6,7 +6,7 @@
 
 I build software, experiment with systems, and occasionally turn side projects into products.
 
-[Portfolio](https://agnibha.xyz) · [Strumm](https://strumm.pixelneststudios.tech) · [GitHub](https://github.com/Agnibha007)
+[Portfolio](https://agnibha.xyz) · [Strumm](https://strumm.me) · [GitHub](https://github.com/Agnibha007)
 
 </div>
 
@@ -30,7 +30,7 @@ A music platform built around discovery, personalization, and listening insights
 
 **Next.js · TypeScript · Python · FastAPI · PostgreSQL**
 
-[Live site](https://strumm.pixelneststudios.tech)
+[Live site](https://strumm.me)
 
 ---
 
@@ -76,6 +76,6 @@ Linux · Docker · Git · Cloudflare · Vercel
 
 <div align="center">
 
-[Email](mailto:b5x003agnibha.mukherjee@gmail.com) · [Portfolio](https://agnibha.xyz) · [LinkedIn](https://www.linkedin.com)
+[Email](mailto:b5x003agnibha.mukherjee@gmail.com) · [Portfolio](https://agnibha.xyz) · [LinkedIn](https://www.linkedin.com/in/agnibha7)
 
 </div>
